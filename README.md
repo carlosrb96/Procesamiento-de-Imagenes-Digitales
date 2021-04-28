@@ -7,3 +7,5 @@ Cristian Arago Silva
 Antonio Rosado Barrera 
 
 Carlos Ruiz Briones
+
+## Trabajo Anterior escogido: [Automatic Pencil Sketch Generation by using Canny Edges](https://ieeexplore.ieee.org/document/7986856) 
